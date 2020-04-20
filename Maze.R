@@ -1,3 +1,6 @@
+#This assumes data collected in IbexFarm, https://github.com/addrummond/ibex, using the Maze Ibex implementation
+#found at https://github.com/vboyce. However, the analysis and plotting are more widely applicable.
+
 setwd("yourwd")
 library(ggplot2)
 library(ggthemes)
